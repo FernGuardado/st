@@ -464,7 +464,6 @@ void
 bpress(XEvent *e)
 {
 	struct timespec now;
-	MouseShortcut *ms;
 	MouseKey *mk;
 	int snap;
 
